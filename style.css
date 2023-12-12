@@ -1,0 +1,18 @@
+.container-xl{
+    background: yellow;
+}
+.container-fluid{
+    background: rgb(176, 176, 159);
+}
+.col-1:nth-child(even){
+    background: red;
+}
+.container{
+    border: 5px solid red;
+}
+.row{
+    border: 3px solid #19bd32;
+}
+.col,.col-5,.col-2{
+    border: 2px dotted yellow;
+}
